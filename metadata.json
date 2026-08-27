@@ -1,0 +1,6 @@
+{
+  "name": "CONTAGION RADAR",
+  "description": "Predict SME Supply Chain Financial Shockwaves - AI-powered early-warning and decision-support platform for Indian MSMEs",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
