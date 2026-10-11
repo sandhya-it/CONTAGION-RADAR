@@ -2,7 +2,7 @@
 
 ### Predicting Financial Shockwaves Before They Hit India's SME Supply Chain
 
-**Contagion Radar** is an AI-powered financial risk intelligence platform designed to help identify, analyze, and visualize how financial distress can spread across interconnected businesses in India's Micro, Small, and Medium Enterprises (MSME) ecosystem.
+**Contagion Radar** is a financial risk intelligence platform designed to help identify, analyze, and visualize how financial distress can spread across interconnected businesses in India's Micro, Small, and Medium Enterprises (MSME) ecosystem.
 
 
 
