@@ -177,7 +177,7 @@ Contributions, suggestions, and improvements are welcome.
 
 ## 📄 License
 
-A license has not yet been specified. Add an appropriate license file if you intend to distribute the project as open-source software.
+This project is intended for educational, research, and prototype purposes.
 
 
 
